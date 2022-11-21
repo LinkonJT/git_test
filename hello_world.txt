@@ -1,0 +1,1 @@
+this is the first sentence for hello_world git tutorial
